@@ -1,6 +1,6 @@
 # Simulated Annealing applied to Travelling Salesperson Problem
 
-For this problem, I wanted to find the optimal route between some major cities in South Africa, and wanted to try out if the simulated annealing algo. 
+For this problem, I wanted to find the optimal route between some major cities in South Africa, and wanted to try out if the simulated annealing algo would be a good place to start as well as what is the kind of the impact the hyper-parameters have. 
 
 ## Introduction
 
